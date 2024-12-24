@@ -1,31 +1,28 @@
 <h1 align="center">Hello there! I am Sparshak Nag</h1>
 <h3 align="center">An ardent lover of web development, frontend and backend included.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"/>
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"/> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshak7&label=Profile%20views&color=0e75b6&style=flat" alt="sparshak7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshak7" alt="sparshak7" /></a> </p>
 
-- 🔭 I’m currently working on **CommerceStop (NextJS)**
+- 🔭 I’m currently working on projects as an intern at **Mind Webs Ventures.**
 
-- 🌱 I’m currently learning **NextJS 14**
+- 🌱 I’m currently learning advanced usage of **MERN Stack.**
 
-- 💬 Ask me about **React, Next, HTML/CSS/JS/TS**
+- 💬 Ask me about **React, Next, HTML, CSS, JS, TS.**
 
-- 📫 How to reach me **sparshaknag247@gmail.com**
+- 📫 Send an email to me at **sparshaknag247@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b_W6dXdfB5ngOoNbD-UoZEgOkbpttR9T/view?usp=drive_link](https://drive.google.com/file/d/1b_W6dXdfB5ngOoNbD-UoZEgOkbpttR9T/view?usp=drive_link)
+- 📄 Know about my experiences from my [resume.](https://drive.google.com/file/d/1r6u5iCMzNh2tKC9txuwFcx4r-yuWhJFM/view?usp=sharing)
 
-- ⚡ Fun fact **You thought you'll see a fun fact here, but it's me! Dio!**
+- ⚡ **You thought you'll see a fun fact here, but it's me! Dio!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sparshak nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshak nag" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sparshak-nag-9211b314b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshak nag" height="30" width="40" /></a>
 <a href="https://instagram.com/exzeitgeist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exzeitgeist" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sparshak_nag7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sparshak_nag7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zeitgeist_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zeitgeist_7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rileyonduty/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rileyonduty/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/zeitgeist7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zeitgeist7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
