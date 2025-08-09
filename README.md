@@ -30,36 +30,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,react,nodejs,express,mongodb,git,postman,docker,redis,rabbitmq,html,css,nginx&perline=8" />
 </p>
 
-### 💼 Experience
-
-<div align="center">
-
-<!-- SDE-I -->
-<div style="padding: 15px; border-left: 3px solid #70a5fd; margin-bottom: 20px; text-align: left; width: 90%; max-width: 600px;">
-  <h3 style="margin: 0; color: #70a5fd;">Software Development Engineer - I @ Mind Webs Ventures</h3>
-  <span style="color: #8be9fd;">July 2025 – Present</span>
-  <ul style="color: #c6d0f5; margin-top: 5px;">
-    <li>Integrated payment gateways (Razorpay, Stripe, ACH) for premium features, ensuring PCI compliance and secure transaction flow.</li>
-    <li>Implemented notification workflows for SMS alerts and transactional messages via Twilio.</li>
-    <li>Built modular server-rendered UI components using EJS templates for fast-rendering pages in Express-based services.</li>
-  </ul>
-</div>
-
-<!-- SDE Intern -->
-<div style="padding: 15px; border-left: 3px solid #70a5fd; margin-bottom: 20px; text-align: left; width: 90%; max-width: 600px;">
-  <h3 style="margin: 0; color: #70a5fd;">Software Development Engineer Intern @ Mind Webs Ventures</h3>
-  <span style="color: #8be9fd;">Dec 2024 – June 2025</span>
-  <ul style="color: #c6d0f5; margin-top: 5px;">
-    <li>Designed and implemented RESTful APIs using Node.js and Express, integrating with MongoDB to support scalable business intelligence systems.</li>
-    <li>Enhanced API performance by 20–30% via Redis caching and optimized database access patterns.</li>
-    <li>Boosted server uptime by 40–50% by decoupling CPU-intensive processes using RabbitMQ and asynchronous task queues.</li>
-    <li>Built interactive dashboards and data visualizations using React.js, Ant Design, and Recharts.</li>
-  </ul>
-</div>
-
-</div>
-
-
 ### 📊 Public GitHub Stats
 
 <p align="center">
