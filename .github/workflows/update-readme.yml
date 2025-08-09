@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2
+        uses: Readme-Workflows/recent-activity
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
