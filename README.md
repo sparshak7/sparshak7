@@ -1,35 +1,95 @@
-<h1 align="center">Hello there! I am Sparshak Nag!</h1>
-<h3 align="center">An ardent lover of technology, working with fullstack web development.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"/> -->
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Sparshak+Nag" alt="Title GitHub Readme" />
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshak7&label=Profile%20views&color=0e75b6&style=flat" alt="sparshak7" /> </p>
+<h3 align="center">SDE-I | MERN Stack | Problem Solver</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparshak7" alt="sparshak7" /></a> </p>
-
-- 🔭 I’m currently working on projects as an intern at **Mind Webs Ventures.**
-
-- 🌱 I’m currently learning advanced usage of **MERN Stack.**
-
-- 💬 Ask me about **React, Next, HTML, CSS, JS, TS.**
-
-- 📫 Send an email to me at **sparshaknag247@gmail.com**
-
-- 📄 Know about my experiences from my [resume.](https://drive.google.com/file/d/1r6u5iCMzNh2tKC9txuwFcx4r-yuWhJFM/view?usp=sharing)
-
-- ⚡ **You thought you'll see a fun fact here, but it's me! Dio!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sparshak-nag-9211b314b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparshak nag" height="30" width="40" /></a>
-<a href="https://instagram.com/exzeitgeist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exzeitgeist" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zeitgeist_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zeitgeist_7" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sparshak7&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+  <a href="https://sparshak-nag-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-portfolio-informational?style=for-the-badge&color=00ADB5&logo=about.me&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/sparshak7">
+    <img src="https://img.shields.io/badge/LinkedIn-Sparshak-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sparshaknag247@gmail.com?subject=Hey!">
+    <img src="https://img.shields.io/badge/Gmail-sparshaknag247@gmail.com-informational?style=for-the-badge&color=EA4335&logo=gmail&logoColor=white" alt="Mail" />
+  </a>
+  <a href="https://drive.google.com/file/d/17BCueR3tYjVhj0I_WwyoFPtNVsM4_B7b/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Drive-Resume-informational?style=for-the-badge&color=EA4265&logo=gmail&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshak7&show_icons=true&locale=en&layout=compact" alt="sparshak7" /></p>
+### 🛠 Skills & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparshak7&show_icons=true&locale=en" alt="sparshak7" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,react,nodejs,express,mongodb,git,postman,docker,redis,rabbitmq,html,css,nginx&perline=8" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparshak7&" alt="sparshak7" /></p>
+### 💼 Experience
+
+<div align="center">
+
+<!-- SDE-I -->
+<div style="padding: 15px; border-left: 3px solid #70a5fd; margin-bottom: 20px; text-align: left; width: 90%; max-width: 600px;">
+  <h3 style="margin: 0; color: #70a5fd;">Software Development Engineer - I @ Mind Webs Ventures</h3>
+  <span style="color: #8be9fd;">July 2025 – Present</span>
+  <ul style="color: #c6d0f5; margin-top: 5px;">
+    <li>Integrated payment gateways (Razorpay, Stripe, ACH) for premium features, ensuring PCI compliance and secure transaction flow.</li>
+    <li>Implemented notification workflows for SMS alerts and transactional messages via Twilio.</li>
+    <li>Built modular server-rendered UI components using EJS templates for fast-rendering pages in Express-based services.</li>
+  </ul>
+</div>
+
+<!-- SDE Intern -->
+<div style="padding: 15px; border-left: 3px solid #70a5fd; margin-bottom: 20px; text-align: left; width: 90%; max-width: 600px;">
+  <h3 style="margin: 0; color: #70a5fd;">Software Development Engineer Intern @ Mind Webs Ventures</h3>
+  <span style="color: #8be9fd;">Dec 2024 – June 2025</span>
+  <ul style="color: #c6d0f5; margin-top: 5px;">
+    <li>Designed and implemented RESTful APIs using Node.js and Express, integrating with MongoDB to support scalable business intelligence systems.</li>
+    <li>Enhanced API performance by 20–30% via Redis caching and optimized database access patterns.</li>
+    <li>Boosted server uptime by 40–50% by decoupling CPU-intensive processes using RabbitMQ and asynchronous task queues.</li>
+    <li>Built interactive dashboards and data visualizations using React.js, Ant Design, and Recharts.</li>
+  </ul>
+</div>
+
+</div>
+
+
+### 📊 Public GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sparshak7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshak7&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshak7&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sparshak7&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### ⏳ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 📅 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
