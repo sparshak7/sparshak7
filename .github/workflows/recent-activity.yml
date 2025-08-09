@@ -8,7 +8,17 @@ on:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
     steps:
-      - uses: Readme-Workflows/recent-activity
-        with:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
           GITHUB_TOKEN: ${{ secrets.GH_KEY }}
+        with:
+          COMMIT_MSG: 'Update recent activity'
+          MAX_LINES: 5
