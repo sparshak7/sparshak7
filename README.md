@@ -133,4 +133,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ### 📅 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/sparshak7/sparshak7/pull/1) in [sparshak7/sparshak7](https://github.com/sparshak7/sparshak7)
+2. 💪 Opened PR [#1](https://github.com/sparshak7/sparshak7/pull/1) in [sparshak7/sparshak7](https://github.com/sparshak7/sparshak7)
 <!--END_SECTION:activity-->
