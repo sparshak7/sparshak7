@@ -55,7 +55,7 @@
 ### ⏳ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
@@ -63,7 +63,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 458 Contributions in the Year 2025
+> 🏆 461 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,16 +98,22 @@ Sunday                   40 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               10 mins             █████████████████████████   100.00 % 
+TypeScript               2 hrs 25 mins       █████████████░░░░░░░░░░░░   50.04 % 
+Markdown                 1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+YAML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Nginx configuration file 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio-v2             10 mins             █████████████████████████   100.00 % 
+portfolio-v2             2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.42 % 
+sparshak7                1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
+fingerprint-server       53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +133,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sparshak7/sparshak7/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 18:53:01 UTC
+ Last Updated on 10/08/2025 18:51:39 UTC
 <!--END_SECTION:waka-->
 
 ---
