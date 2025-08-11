@@ -1,8 +1,13 @@
-<h1 style="text-align: center;">
+<div style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Sparshak+Nag" alt="Title GitHub Readme" />
   </a>
-</h1>
+</div>
+
+<div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:640/0*Z4HRalcoNb8m_zej.gif" alt="Coding GIF" />
+</div>
+
 
 <h3 align="center">SDE-I | MERN Stack | Problem Solver</h3>
 
