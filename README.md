@@ -60,13 +60,13 @@
 ### ⏳ Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2017%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 623 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,18 +101,16 @@ Sunday                   44 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ████████████████████████░   95.58 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-xpresso-api              1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +130,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sparshak7/sparshak7/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:47:27 UTC
+ Last Updated on 31/08/2025 18:48:02 UTC
 <!--END_SECTION:waka-->
 
 ---
