@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
@@ -134,7 +134,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sparshak7/sparshak7/master/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 15:19:48 UTC
+ Last Updated on 20/09/2025 18:45:26 UTC
 <!--END_SECTION:waka-->
 
 ---
